@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-   <project name="crdroidandroid/android_device_oneplus_kebab" path="device/oneplus/kebab" remote="github" revision="11.0" clone-depth="1" />
-   <project name="crdroidandroid/android_device_oneplus_sm8250-common" path="device/oneplus/sm8250-common" remote="github" revision="11.0" clone-depth="1" />
-   <project name="LineageOS/android_hardware_oplus" path="hardware/oplus" remote="github" revision="11.0" clone-depth="1" />
-   <project name="crdroidandroid/android_kernel_oneplus_sm8250" path="kernel/oneplus/sm8250" remote="github"  revision="11.0" clone-depth="1" />
-   <project name="Havoc-OS-OnePlus-8-Series/vendor_oneplus_kebab" path="vendor/oneplus/kebab" remote="github"  revision="eleven" clone-depth="1" />
-   <project name="LineageOS/android_hardware_oplus" path="hardware/oplus" remote="github"  revision="lineage-18.1" clone-depth="1" />
+  <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-17.1" />
+  <project name="LineageOS/android_hardware_sony_timekeep" path="hardware/sony/timekeep" remote="github" revision="lineage-17.1" />
+  <project name="team-infusion-developers/android_device_samsung_gts28vewifi" path="device/samsung/gts28vewifi" remote="github" revision="lineage-17.1" />
+  <project name="team-infusion-developers/android_device_samsung_team-infusion-developers" path="device/samsung/team-infusion-developers" remote="github" revision="lineage-17.1" />
+  <project name="team-infusion-developers/android_kernel_samsung_msm8976" path="kernel/samsung/msm8976" remote="github" revision="lineage-17.1" />
+  <project name="team-infusion-developers/proprietary_vendor_samsung_msm8976" path="vendor/samsung" remote="github" revision="lineage-17.1" />
 </manifest>
